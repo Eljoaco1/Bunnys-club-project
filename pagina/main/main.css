@@ -1,0 +1,14 @@
+nav{
+    border-bottom: 1px solid gray;
+}
+nav ul li{
+    list-style-type: none;
+    text-align: center;
+    display: inline-block;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 15px 20px 15px 20px;
+    display: inline-block;
+    color: black;
+}
